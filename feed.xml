@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Immerdie3</title>
-    <link href="https://github.com/ben66862/Immerdie3.git/feed.xml" rel="self" />
-    <link href="https://github.com/ben66862/Immerdie3.git" />
+    <link href="https://ben66862.github.io/feed.xml" rel="self" />
+    <link href="https://ben66862.github.io" />
     <updated>2020-12-12T18:46:48+01:00</updated>
     <author>
         <name>Immerdie3Authors</name>
     </author>
-    <id>https://github.com/ben66862/Immerdie3.git</id>
+    <id>https://ben66862.github.io</id>
 
     <entry>
         <title>Über Uns</title>
         <author>
             <name>Immerdie3Authors</name>
         </author>
-        <link href="https://github.com/ben66862/Immerdie3.git/ueber-uns.html"/>
-        <id>https://github.com/ben66862/Immerdie3.git/ueber-uns.html</id>
+        <link href="https://ben66862.github.io/ueber-uns.html"/>
+        <id>https://ben66862.github.io/ueber-uns.html</id>
             <category term="Über Uns"/>
 
         <updated>2020-12-12T18:46:48+01:00</updated>
@@ -41,8 +41,8 @@
         <author>
             <name>Immerdie3Authors</name>
         </author>
-        <link href="https://github.com/ben66862/Immerdie3.git/folge-1-gast-bernd-hollerbach.html"/>
-        <id>https://github.com/ben66862/Immerdie3.git/folge-1-gast-bernd-hollerbach.html</id>
+        <link href="https://ben66862.github.io/folge-1-gast-bernd-hollerbach.html"/>
+        <id>https://ben66862.github.io/folge-1-gast-bernd-hollerbach.html</id>
             <category term="Folge"/>
 
         <updated>2020-12-12T18:27:43+01:00</updated>

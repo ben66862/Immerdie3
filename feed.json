@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Immerdie3",
     "description": "",
-    "home_page_url": "https://github.com/ben66862/Immerdie3.git",
-    "feed_url": "https://github.com/ben66862/Immerdie3.git/feed.json",
+    "home_page_url": "https://ben66862.github.io",
+    "feed_url": "https://ben66862.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://github.com/ben66862/Immerdie3.git/media/website/WhatsApp-Image-2020-11-28-at-15.58.45.jpeg",
+    "icon": "https://ben66862.github.io/media/website/WhatsApp-Image-2020-11-28-at-15.58.45.jpeg",
     "author": {
         "name": "Immerdie3Authors"
     },
     "items": [
         {
-            "id": "https://github.com/ben66862/Immerdie3.git/ueber-uns.html",
-            "url": "https://github.com/ben66862/Immerdie3.git/ueber-uns.html",
+            "id": "https://ben66862.github.io/ueber-uns.html",
+            "url": "https://ben66862.github.io/ueber-uns.html",
             "title": "Über Uns",
             "summary": "Benedikt Mühlrath Sebastian Leisgang William Vielwerth ",
             "content_html": "<p>Benedikt Mühlrath</p>\n<p> </p>\n<p>Sebastian Leisgang</p>\n<p> </p>\n<p>William Vielwerth</p>\n<p> </p>\n<p> </p>",
@@ -26,8 +26,8 @@
             "date_modified": "2020-12-12T18:46:48+01:00"
         },
         {
-            "id": "https://github.com/ben66862/Immerdie3.git/folge-1-gast-bernd-hollerbach.html",
-            "url": "https://github.com/ben66862/Immerdie3.git/folge-1-gast-bernd-hollerbach.html",
+            "id": "https://ben66862.github.io/folge-1-gast-bernd-hollerbach.html",
+            "url": "https://ben66862.github.io/folge-1-gast-bernd-hollerbach.html",
             "title": "Folge 1 - Gast Bernd Hollerbach",
             "summary": " Unser erster Podcast ist im Kasten und hier erhätlich ",
             "content_html": "\n  <p>\n    Unser erster Podcast ist im Kasten und hier erhätlich\n  </p>",
