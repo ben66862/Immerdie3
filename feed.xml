@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Immerdie3</title>
+    <link href="https://github.com/ben66862/Immerdie3.git/feed.xml" rel="self" />
+    <link href="https://github.com/ben66862/Immerdie3.git" />
+    <updated>2020-12-12T18:46:48+01:00</updated>
+    <author>
+        <name>Immerdie3Authors</name>
+    </author>
+    <id>https://github.com/ben66862/Immerdie3.git</id>
+
+    <entry>
+        <title>Über Uns</title>
+        <author>
+            <name>Immerdie3Authors</name>
+        </author>
+        <link href="https://github.com/ben66862/Immerdie3.git/ueber-uns.html"/>
+        <id>https://github.com/ben66862/Immerdie3.git/ueber-uns.html</id>
+            <category term="Über Uns"/>
+
+        <updated>2020-12-12T18:46:48+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Benedikt Mühlrath Sebastian Leisgang William Vielwerth 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Benedikt Mühlrath</p>
+<p> </p>
+<p>Sebastian Leisgang</p>
+<p> </p>
+<p>William Vielwerth</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Folge 1 - Gast Bernd Hollerbach</title>
+        <author>
+            <name>Immerdie3Authors</name>
+        </author>
+        <link href="https://github.com/ben66862/Immerdie3.git/folge-1-gast-bernd-hollerbach.html"/>
+        <id>https://github.com/ben66862/Immerdie3.git/folge-1-gast-bernd-hollerbach.html</id>
+            <category term="Folge"/>
+
+        <updated>2020-12-12T18:27:43+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Unser erster Podcast ist im Kasten und hier erhätlich 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Unser erster Podcast ist im Kasten und hier erhätlich
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
