@@ -7,9 +7,22 @@
     "user_comment": "",
     "icon": "https://ben66862.github.io/media/website/WhatsApp-Image-2020-11-28-at-15.58.45.jpeg",
     "author": {
-        "name": "Immerdie3Authors"
+        "name": "Immer die 3"
     },
     "items": [
+        {
+            "id": "https://ben66862.github.io/kontakt.html",
+            "url": "https://ben66862.github.io/kontakt.html",
+            "title": "Kontakt",
+            "author": {
+                "name": "Immer die 3"
+            },
+            "tags": [
+                   "Kontakt"
+            ],
+            "date_published": "2020-12-13T20:29:42+01:00",
+            "date_modified": "2020-12-13T20:30:04+01:00"
+        },
         {
             "id": "https://ben66862.github.io/ueber-uns.html",
             "url": "https://ben66862.github.io/ueber-uns.html",
@@ -17,28 +30,28 @@
             "summary": "Benedikt Mühlrath Sebastian Leisgang William Vielwerth ",
             "content_html": "<p>Benedikt Mühlrath</p>\n<p> </p>\n<p>Sebastian Leisgang</p>\n<p> </p>\n<p>William Vielwerth</p>\n<p> </p>\n<p> </p>",
             "author": {
-                "name": "Immerdie3Authors"
+                "name": "Immer die 3"
             },
             "tags": [
                    "Über Uns"
             ],
             "date_published": "2020-12-12T18:35:20+01:00",
-            "date_modified": "2020-12-12T18:46:48+01:00"
+            "date_modified": "2020-12-13T20:29:58+01:00"
         },
         {
             "id": "https://ben66862.github.io/folge-1-gast-bernd-hollerbach.html",
             "url": "https://ben66862.github.io/folge-1-gast-bernd-hollerbach.html",
-            "title": "Folge 1 - Gast Bernd Hollerbach",
+            "title": "Folge 1 - Bernd Hollerbach",
             "summary": " Unser erster Podcast ist im Kasten und hier erhätlich ",
             "content_html": "\n  <p>\n    Unser erster Podcast ist im Kasten und hier erhätlich\n  </p>",
             "author": {
-                "name": "Immerdie3Authors"
+                "name": "Immer die 3"
             },
             "tags": [
                    "Folge"
             ],
             "date_published": "2020-12-12T00:22:09+01:00",
-            "date_modified": "2020-12-12T18:27:43+01:00"
+            "date_modified": "2020-12-13T21:33:48+01:00"
         }
     ]
 }

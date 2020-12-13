@@ -3,22 +3,35 @@
     <title>Immerdie3</title>
     <link href="https://ben66862.github.io/feed.xml" rel="self" />
     <link href="https://ben66862.github.io" />
-    <updated>2020-12-12T18:46:48+01:00</updated>
+    <updated>2020-12-13T21:33:48+01:00</updated>
     <author>
-        <name>Immerdie3Authors</name>
+        <name>Immer die 3</name>
     </author>
     <id>https://ben66862.github.io</id>
 
     <entry>
+        <title>Kontakt</title>
+        <author>
+            <name>Immer die 3</name>
+        </author>
+        <link href="https://ben66862.github.io/kontakt.html"/>
+        <id>https://ben66862.github.io/kontakt.html</id>
+            <category term="Kontakt"/>
+
+        <updated>2020-12-13T20:30:04+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
         <title>Über Uns</title>
         <author>
-            <name>Immerdie3Authors</name>
+            <name>Immer die 3</name>
         </author>
         <link href="https://ben66862.github.io/ueber-uns.html"/>
         <id>https://ben66862.github.io/ueber-uns.html</id>
             <category term="Über Uns"/>
 
-        <updated>2020-12-12T18:46:48+01:00</updated>
+        <updated>2020-12-13T20:29:58+01:00</updated>
             <summary>
                 <![CDATA[
                     Benedikt Mühlrath Sebastian Leisgang William Vielwerth 
@@ -37,15 +50,15 @@
         </content>
     </entry>
     <entry>
-        <title>Folge 1 - Gast Bernd Hollerbach</title>
+        <title>Folge 1 - Bernd Hollerbach</title>
         <author>
-            <name>Immerdie3Authors</name>
+            <name>Immer die 3</name>
         </author>
         <link href="https://ben66862.github.io/folge-1-gast-bernd-hollerbach.html"/>
         <id>https://ben66862.github.io/folge-1-gast-bernd-hollerbach.html</id>
             <category term="Folge"/>
 
-        <updated>2020-12-12T18:27:43+01:00</updated>
+        <updated>2020-12-13T21:33:48+01:00</updated>
             <summary>
                 <![CDATA[
                      Unser erster Podcast ist im Kasten und hier erhätlich 
