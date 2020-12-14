@@ -3,12 +3,47 @@
     <title>Immerdie3</title>
     <link href="https://ben66862.github.io/feed.xml" rel="self" />
     <link href="https://ben66862.github.io" />
-    <updated>2020-12-13T21:33:48+01:00</updated>
+    <updated>2020-12-14T20:56:34+01:00</updated>
     <author>
         <name>Immer die 3</name>
     </author>
     <id>https://ben66862.github.io</id>
 
+    <entry>
+        <title>Impressum</title>
+        <author>
+            <name>Immer die 3</name>
+        </author>
+        <link href="https://ben66862.github.io/impressum-2.html"/>
+        <id>https://ben66862.github.io/impressum-2.html</id>
+
+        <updated>2020-12-14T20:56:34+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Intro</title>
+        <author>
+            <name>Immer die 3</name>
+        </author>
+        <link href="https://ben66862.github.io/intro.html"/>
+        <id>https://ben66862.github.io/intro.html</id>
+
+        <updated>2020-12-14T20:19:45+01:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div id="buzzsprout-player-6843496"> </div>
+<p>
+<script src="https://www.buzzsprout.com/1551640/6843496.js?container_id=buzzsprout-player-6843496&amp;player=small" type="text/javascript" charset="utf-8"></script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Kontakt</title>
         <author>
@@ -16,7 +51,6 @@
         </author>
         <link href="https://ben66862.github.io/kontakt.html"/>
         <id>https://ben66862.github.io/kontakt.html</id>
-            <category term="Kontakt"/>
 
         <updated>2020-12-13T20:30:04+01:00</updated>
             <summary></summary>
@@ -29,7 +63,6 @@
         </author>
         <link href="https://ben66862.github.io/ueber-uns.html"/>
         <id>https://ben66862.github.io/ueber-uns.html</id>
-            <category term="Über Uns"/>
 
         <updated>2020-12-13T20:29:58+01:00</updated>
             <summary>
