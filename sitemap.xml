@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://ben66862.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://immerdie3.de/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://ben66862.github.io/</loc>
+<loc>https://immerdie3.de/</loc>
 </url>
 <url>
-<loc>https://ben66862.github.io/folge-1-gast-bernd-hollerbach.html</loc>
+<loc>https://immerdie3.de/folge-1-gast-bernd-hollerbach.html</loc>
 <lastmod>2020-12-13T21:33:48+01:00</lastmod>
 </url>
 <url>
-<loc>https://ben66862.github.io/impressum-2.html</loc>
+<loc>https://immerdie3.de/impressum-2.html</loc>
 <lastmod>2020-12-14T20:56:34+01:00</lastmod>
 </url>
 <url>
-<loc>https://ben66862.github.io/intro.html</loc>
+<loc>https://immerdie3.de/intro.html</loc>
 <lastmod>2020-12-14T20:19:45+01:00</lastmod>
 </url>
 <url>
-<loc>https://ben66862.github.io/kontakt.html</loc>
+<loc>https://immerdie3.de/kontakt.html</loc>
 <lastmod>2020-12-13T20:30:04+01:00</lastmod>
 </url>
 <url>
-<loc>https://ben66862.github.io/ueber-uns.html</loc>
+<loc>https://immerdie3.de/ueber-uns.html</loc>
 <lastmod>2020-12-13T20:29:58+01:00</lastmod>
 </url>
 </urlset>

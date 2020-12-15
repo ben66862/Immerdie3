@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Immerdie3",
     "description": "",
-    "home_page_url": "https://ben66862.github.io",
-    "feed_url": "https://ben66862.github.io/feed.json",
+    "home_page_url": "https://immerdie3.de",
+    "feed_url": "https://immerdie3.de/feed.json",
     "user_comment": "",
-    "icon": "https://ben66862.github.io/media/website/WhatsApp-Image-2020-11-28-at-15.58.45.jpeg",
+    "icon": "https://immerdie3.de/media/website/WhatsApp-Image-2020-11-28-at-15.58.45.jpeg",
     "author": {
         "name": "Immer die 3"
     },
     "items": [
         {
-            "id": "https://ben66862.github.io/impressum-2.html",
-            "url": "https://ben66862.github.io/impressum-2.html",
+            "id": "https://immerdie3.de/impressum-2.html",
+            "url": "https://immerdie3.de/impressum-2.html",
             "title": "Impressum",
             "author": {
                 "name": "Immer die 3"
@@ -23,8 +23,8 @@
             "date_modified": "2020-12-14T20:56:34+01:00"
         },
         {
-            "id": "https://ben66862.github.io/intro.html",
-            "url": "https://ben66862.github.io/intro.html",
+            "id": "https://immerdie3.de/intro.html",
+            "url": "https://immerdie3.de/intro.html",
             "title": "Intro",
             "summary": " ",
             "content_html": "<div id=\"buzzsprout-player-6843496\"> </div>\n<p>\n<script src=\"https://www.buzzsprout.com/1551640/6843496.js?container_id=buzzsprout-player-6843496&amp;player=small\" type=\"text/javascript\" charset=\"utf-8\"></script>\n</p>",
@@ -37,8 +37,8 @@
             "date_modified": "2020-12-14T20:19:45+01:00"
         },
         {
-            "id": "https://ben66862.github.io/kontakt.html",
-            "url": "https://ben66862.github.io/kontakt.html",
+            "id": "https://immerdie3.de/kontakt.html",
+            "url": "https://immerdie3.de/kontakt.html",
             "title": "Kontakt",
             "author": {
                 "name": "Immer die 3"
@@ -49,8 +49,8 @@
             "date_modified": "2020-12-13T20:30:04+01:00"
         },
         {
-            "id": "https://ben66862.github.io/ueber-uns.html",
-            "url": "https://ben66862.github.io/ueber-uns.html",
+            "id": "https://immerdie3.de/ueber-uns.html",
+            "url": "https://immerdie3.de/ueber-uns.html",
             "title": "Über Uns",
             "summary": "Benedikt Mühlrath Sebastian Leisgang William Vielwerth ",
             "content_html": "<p>Benedikt Mühlrath</p>\n<p> </p>\n<p>Sebastian Leisgang</p>\n<p> </p>\n<p>William Vielwerth</p>\n<p> </p>\n<p> </p>",
@@ -63,8 +63,8 @@
             "date_modified": "2020-12-13T20:29:58+01:00"
         },
         {
-            "id": "https://ben66862.github.io/folge-1-gast-bernd-hollerbach.html",
-            "url": "https://ben66862.github.io/folge-1-gast-bernd-hollerbach.html",
+            "id": "https://immerdie3.de/folge-1-gast-bernd-hollerbach.html",
+            "url": "https://immerdie3.de/folge-1-gast-bernd-hollerbach.html",
             "title": "Folge 1 - Bernd Hollerbach",
             "summary": " Unser erster Podcast ist im Kasten und hier erhätlich ",
             "content_html": "\n  <p>\n    Unser erster Podcast ist im Kasten und hier erhätlich\n  </p>",

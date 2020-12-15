@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Immerdie3</title>
-    <link href="https://ben66862.github.io/feed.xml" rel="self" />
-    <link href="https://ben66862.github.io" />
+    <link href="https://immerdie3.de/feed.xml" rel="self" />
+    <link href="https://immerdie3.de" />
     <updated>2020-12-14T20:56:34+01:00</updated>
     <author>
         <name>Immer die 3</name>
     </author>
-    <id>https://ben66862.github.io</id>
+    <id>https://immerdie3.de</id>
 
     <entry>
         <title>Impressum</title>
         <author>
             <name>Immer die 3</name>
         </author>
-        <link href="https://ben66862.github.io/impressum-2.html"/>
-        <id>https://ben66862.github.io/impressum-2.html</id>
+        <link href="https://immerdie3.de/impressum-2.html"/>
+        <id>https://immerdie3.de/impressum-2.html</id>
 
         <updated>2020-12-14T20:56:34+01:00</updated>
             <summary></summary>
@@ -26,8 +26,8 @@
         <author>
             <name>Immer die 3</name>
         </author>
-        <link href="https://ben66862.github.io/intro.html"/>
-        <id>https://ben66862.github.io/intro.html</id>
+        <link href="https://immerdie3.de/intro.html"/>
+        <id>https://immerdie3.de/intro.html</id>
 
         <updated>2020-12-14T20:19:45+01:00</updated>
             <summary>
@@ -49,8 +49,8 @@
         <author>
             <name>Immer die 3</name>
         </author>
-        <link href="https://ben66862.github.io/kontakt.html"/>
-        <id>https://ben66862.github.io/kontakt.html</id>
+        <link href="https://immerdie3.de/kontakt.html"/>
+        <id>https://immerdie3.de/kontakt.html</id>
 
         <updated>2020-12-13T20:30:04+01:00</updated>
             <summary></summary>
@@ -61,8 +61,8 @@
         <author>
             <name>Immer die 3</name>
         </author>
-        <link href="https://ben66862.github.io/ueber-uns.html"/>
-        <id>https://ben66862.github.io/ueber-uns.html</id>
+        <link href="https://immerdie3.de/ueber-uns.html"/>
+        <id>https://immerdie3.de/ueber-uns.html</id>
 
         <updated>2020-12-13T20:29:58+01:00</updated>
             <summary>
@@ -87,8 +87,8 @@
         <author>
             <name>Immer die 3</name>
         </author>
-        <link href="https://ben66862.github.io/folge-1-gast-bernd-hollerbach.html"/>
-        <id>https://ben66862.github.io/folge-1-gast-bernd-hollerbach.html</id>
+        <link href="https://immerdie3.de/folge-1-gast-bernd-hollerbach.html"/>
+        <id>https://immerdie3.de/folge-1-gast-bernd-hollerbach.html</id>
             <category term="Folge"/>
 
         <updated>2020-12-13T21:33:48+01:00</updated>
