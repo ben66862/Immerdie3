@@ -769,8 +769,8 @@ textarea {
     height: var(--navbar-height);
   }
 }
-.top.is-visible {
-  background: var(--dark);
+.top.is-visible { /* Main menü bei runter scrollen */
+  background: var(--white);
   -webkit-box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.06);
           box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.06);
   opacity: 1;
@@ -1031,7 +1031,7 @@ textarea {
 .navbar .navbar__menu li {
   font-family: var(--menu-font);
   display: block;
-  font-size: 0.7724761953rem;
+  font-size: 0.85; /*alt 0.7724761953rem; */
   line-height: var(--line-height);
   font-weight: 500;
   padding: 0;
@@ -1041,7 +1041,7 @@ textarea {
 }
 .navbar .navbar__menu li a,
 .navbar .navbar__menu li span[aria-haspopup=true] {
-  color: var(--white);
+  color: var(--black); /*alt --white; */
   display: block;
   padding: 0 0.5666666667rem;
   -webkit-transition: all 0.24s ease-out;
@@ -1055,7 +1055,7 @@ textarea {
   color: rgba(var(--white-rgb), 0.7);
 }
 .navbar .navbar__menu li span {
-  color: var(--white);
+  color: var(--white); /*alt var(--white);*/
   cursor: default;
   display: block;
   padding: 0 0.5666666667rem;
