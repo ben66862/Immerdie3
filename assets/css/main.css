@@ -804,9 +804,11 @@ textarea {
   font-size: 1.2136296308rem;
   font-weight: var(--font-weight-normal);
   margin-right: auto;
+  margin-top: 7%;
 }
 .logo > img {
-  max-height: calc(3.9666666667rem + 1vw);
+  max-height: calc(8rem + 1vw);
+  /*max-width:  calc(6rem + 1vw);*/
 }
 
 .search {
@@ -1460,9 +1462,10 @@ textarea {
   z-index: 1;
 }
 .hero__content {
+	/*Header Schrift*/
   bottom: 10%;
   color: var(--hero-text-color);
-  left: 50%;
+  left: 30%;
   position: absolute;
   -webkit-transform: translate(-50%, 0);
       -ms-transform: translate(-50%, 0);
@@ -1478,6 +1481,7 @@ textarea {
   vertical-align: top;
 }
 .hero__content h1 + p {
+	
   margin-top: calc(0.2833333333rem + 0.25vw);
 }
 .hero__content a {
